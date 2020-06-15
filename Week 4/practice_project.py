@@ -52,6 +52,7 @@ def rpsls(player_choice):
 
     # Determine the winner using simple arithmetic and modulor
     winner = (player_number - comp_number) % 5 # Ex : -3 % 5 ==> -3 -(floor(-3/5) * 5) | floor gives min value
+    # If Difference of ((player_number - comp_number) % 5) is equal to 1 or 2 then player wins, if result is equal to 3 or 4 then computer wins
 
     if (winner < 3) and (winner > 0):
         print("Player Wins!")
