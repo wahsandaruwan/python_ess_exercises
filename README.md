@@ -1,31 +1,36 @@
-This repository contains python essential exercises source codes with some practice tasks and projects.
+## This repository contains python essential exercises source codes with some practice tasks and projects.
 
 =============================================
 
-Content:
+#### Technologies Used
+* Python 3
 
-print
+### Content:
 
-comments
+* print
 
-variables
+* comments
 
-operators
+* variables
 
-conditionals
+* operators
 
-functions
+* conditionals
 
-modules
+* functions
 
-Tasks and challenges
+* modules
 
-Projects
+* Tasks and challenges
 
-and etc.
+* Projects
+
+* and etc.
 
 ==============================================
 
-You are feel free to refer these source codes for your learning puprpose and you are welcome to update these source codes if they contain any mis matches.
+### License : MIT
 
-Sources : Rice University, Wikipedia, Geeks for Geeks
+### You are feel free to refer these source codes for your learning puprpose and you are welcome to update these source codes if they contain any mis matches.
+
+### Sources : Rice University, Wikipedia, Geeks for Geeks
